@@ -1,0 +1,11 @@
+"MovieID","Genre","Budget","Rating"
+1,"Action",1.5e+07,7.8
+2,"Comedy",5e+06,6.5
+3,"Drama",1e+07,8.2
+4,"Action",2e+07,7.9
+5,"Comedy",6e+06,6.9
+6,"Drama",1.2e+07,8
+7,"Action",1.8e+07,7.5
+8,"Comedy",5500000,6.7
+9,"Drama",1.1e+07,8.1
+10,"Action",1.6e+07,7.7
